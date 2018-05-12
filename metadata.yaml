@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32710'
     url: http://www.gutenberg.org/2009/agents/32710
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32926#John-Ames-Native-Commissioner--A-Romance-of-the-Matabele-Rising
 gutenberg_issued: '2010-06-20'
 gutenberg_type: Text
 identifiers:
